@@ -1,2 +1,2 @@
-# ctfs-writeup
-Arsip Writeup Kompetisi CTF
+# CTFs Writeup
+Arsip Writeup Kompetisi CTF team Computer Network Security STTBandung
