@@ -41,8 +41,8 @@ KKN Back To Isekai - STT Bandung
 </table>
 
 #### Forensics
-- P <br>
-	Diberikan sebuah *attachment file packet data*. Pertama, kami melakukan information gathering terhadap file packet data tersebut menggunakan bantuan [tshark](https://github.com/hasanbulat/tshark). 
+- P
+	Diberikan sebuah [*attachment file packet data*](https://transfer.sh/pJPPm/p.pcap). Pertama, kami melakukan information gathering terhadap file packet data tersebut menggunakan bantuan [tshark](https://github.com/hasanbulat/tshark). 
 	
 	<img src="http://imgur.com/fS4GPnzl.png" />
 
