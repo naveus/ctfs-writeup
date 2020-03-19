@@ -41,7 +41,7 @@ KKN Back To Isekai - STT Bandung
 </table>
 
 #### Forensics
-- P
+- P <br>
 	Diberikan sebuah *attachment file packet data*. Pertama, kami melakukan information gathering terhadap file packet data tersebut menggunakan bantuan [tshark](https://github.com/hasanbulat/tshark). 
 	
 	<img src="http://imgur.com/fS4GPnzl.png" />
@@ -59,6 +59,7 @@ KKN Back To Isekai - STT Bandung
 	Seperti yang bisa kita lihat, pada *offset* **0030** terdapat 1 *character* yang berubah ubah. Hal tersebut membuat kami curiga bahwa character tersebut merupakan *statisfiable data* yang menggunakan *encoding base64*.
 
 	Maka dari itu, kami melakukan *filtering* data lebih spesifik untuk mendapatkan *character encoding* tersebut
+	
 	<img src="http://imgur.com/H6jINnYl.png" />
 	
 	**UNITY2020{PING_PONG_Seikai_Desu!!!!:D}**
